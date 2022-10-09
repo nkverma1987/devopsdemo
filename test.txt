@@ -1,2 +1,3 @@
 Hello dear
 this is amazing to do!
+from singapore region text!
